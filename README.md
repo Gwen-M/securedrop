@@ -2,6 +2,10 @@
 
 The goal of this workshop is to provide a minimal installer to install the Ethereum App on a Ledger device.
 
+## Submodules
+
+Ledger live repo, as it's the main repo used to build the 
+
 ## Setup 
 
 // TODO -- installer to upload
